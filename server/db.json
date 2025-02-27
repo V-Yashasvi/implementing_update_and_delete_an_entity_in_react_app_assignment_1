@@ -1,14 +1,24 @@
 {
-    "doors": [
-        {
-            "id": "1",
-            "name": "Front Door",
-            "status": "open"
-        },
-        {
-            "id": "2",
-            "name": "Back Door",
-            "status": "closed"
-        }
-    ]
+  "doors": [
+    {
+      "id": "1",
+      "name": "Front door",
+      "status": "open"
+    },
+    {
+      "id": "2",
+      "name": "Back door",
+      "status": "closed"
+    },
+    {
+      "id": "3",
+      "name": "Side door",
+      "status": "closed"
+    },
+    {
+      "id": "4",
+      "name": "Slide Door",
+      "status": "closed"
+    }
+  ]
 }
